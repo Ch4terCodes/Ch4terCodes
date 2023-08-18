@@ -1,3 +1,4 @@
+![logo](https://github.com/Ch4terCodes/Ch4terCodes/blob/main/Screenshot%20(27).png)
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">a passionate Data Analyst and 🚀 Proud Brand Ambassador & Campus Intern @InternsLite!</h3>
 
