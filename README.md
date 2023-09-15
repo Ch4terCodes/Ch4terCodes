@@ -1,21 +1,4 @@
 ![logo](https://github.com/Ch4terCodes/Ch4terCodes/blob/main/Screenshot%20(27).png)
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17231
-Fork on GitHub
-4948
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">a passionate Data Analyst & Tech Enthusiast</h3>
 <img align="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
