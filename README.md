@@ -1,6 +1,5 @@
 ![logo](https://github.com/Ch4terCodes/Ch4terCodes/blob/main/Screenshot%20(27).png)
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">a passionate Data Analyst & Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4tercodes&label=Profile%20views&color=0e75b6&style=flat" alt="ch4tercodes" /> </p>
